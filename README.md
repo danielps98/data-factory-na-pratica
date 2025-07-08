@@ -1,4 +1,4 @@
-# data-factory-na-pratica# Projeto Prático - Azure Data Factory 🌐
+# Projeto Prático - Azure Data Factory 🌐
 
 Este repositório faz parte do projeto prático proposto pela plataforma DIO, no qual recriei os passos para criar e configurar um recurso no **Microsoft Azure**, utilizando o **Azure Data Factory**.
 
@@ -16,12 +16,11 @@ Este repositório faz parte do projeto prático proposto pela plataforma DIO, no
 
 ## 📸 Prints do processo
 
-_Aqui você pode colocar prints das telas que você criou:_
+### 🏗️ Criação do recurso
+![Criação do recurso](./Captura%20de%20tela%202025-07-08%20003906.png)
 
-1. Tela do recurso sendo criado
-2. Configurações do Data Factory
-3. Tela do painel com o recurso no Dashboard
-4. Qualquer outra parte que você queira destacar
+### ⚙️ Configuração e painel no dashboard
+![Configuração](./Captura%20de%20tela%202025-07-08%20004112.png)
 
 ---
 
